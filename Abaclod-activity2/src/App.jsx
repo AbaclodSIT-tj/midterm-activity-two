@@ -1,4 +1,7 @@
 import { useState } from 'react'
+import StudentForm from './components/StudentForm'
+import StudentList from './components/StudentList'
+import StudentDetails from './components/StudentDetails'
 import NavBar from './components/NavBar'
 import Home from './pages/Home'
 import Register from './pages/Register'
